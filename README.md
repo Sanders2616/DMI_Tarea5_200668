@@ -7,7 +7,7 @@ UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
 Tarea 5 :Implementacion de imagenes a aplicación Stateful. <br>
-Descripción:Realizar la aplicación con base a la practica 6, agregar imagenes y que cambien de acuerdo a los clicks del boton <br>
+Descripción:La práctica consiste en desarrollar una aplicación en Flutter basada en la Práctica 6. Esta aplicación incorporará imágenes que cambiarán dinámicamente en respuesta a los clics de un botón. Utilizando el framework de Flutter, se crearán elementos de interfaz de usuario atractivos y funcionales. Cada vez que el usuario presione el botón, las imágenes se actualizarán, brindando una experiencia interactiva y visualmente agradable. Esta práctica implica la combinación de programación en Dart, el lenguaje de Flutter, y el manejo de eventos para lograr la funcionalidad deseada. El objetivo es aprender a crear una experiencia de usuario dinámica y receptiva en aplicaciones móviles. <br>
 Fecha entrega: 22 de septiembre del 2023 <br> <br>
 
 # Resultado de la Tarea 5
