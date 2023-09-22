@@ -6,11 +6,11 @@
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
-Practica 7:Contexto inicial de la aplicacion movieapp. <br>
-Descripción:Realizar la aplicación con contexto de peliculas, que incluya un Bottom Navigation Bar, Drawer. <br>
-Fecha entrega: 21 de septiembre del 2023 <br> <br>
+Tarea 5 :Implementacion de imagenes a aplicación Stateful. <br>
+Descripción:Realizar la aplicación con base a la practica 6, agregar imagenes y que cambien de acuerdo a los clicks del boton <br>
+Fecha entrega: 22 de septiembre del 2023 <br> <br>
 
-# Resultado de la Practica 7
+# Resultado de la Tarea 5
 
 <div style="display: flex; justify-content:">
  <img align="left" src="tarea5_200668/images/0dfb035d-dd15-43f0-9e82-713411b91c1f.jpg?raw=true" alt="Imagen 1" width="200";/>
