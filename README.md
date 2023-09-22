@@ -13,6 +13,7 @@ Fecha entrega: 21 de septiembre del 2023 <br> <br>
 # Resultado de la Practica 7
 
 <div style="display: flex; justify-content:">
- <img align="left" src="movieapp_200668/imagenes/2.jpg?raw=true" alt="Imagen 1" width="200";/>
-<img align="left" src="movieapp_200668/imagenes/1.jpg?raw=true" alt="Imagen 2"  width="200" />
+ <img align="left" src="tarea5_200668/images/0dfb035d-dd15-43f0-9e82-713411b91c1f.jpg?raw=true" alt="Imagen 1" width="200";/>
+<img align="left" src="tarea5_200668/images/270a18b8-3e67-431f-8d47-f59882ede28a.jpg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="tarea5_200668/images/84ad7070-2dd5-4037-984a-fc97b2310e63.jpg?raw=true" alt="Imagen 2"  width="200" />
 </div>
